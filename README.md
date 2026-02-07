@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bappy5-collab
+# Hi 👋, I'm Chandon Kumar Mundol
 
 I'm a **Full Stack Developer & AI Enthusiast** 🚀  
 I build **modern, scalable web apps** and **AI-powered tools**.  
