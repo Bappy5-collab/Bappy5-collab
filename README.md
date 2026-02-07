@@ -71,7 +71,7 @@ I build modern, fast & scalable web applications using React ecosystem and smart
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Bappy5-collab&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bappy5-collab&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
