@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandon Kumar Mundol</h1>
+<h1 align="center">Hi 👋, I'm Chandon Kumar Mundol Bappy</h1>
 <h3 align="center">🚀 Frontend Focused Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
