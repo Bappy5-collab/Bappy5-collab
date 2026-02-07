@@ -78,10 +78,10 @@ I build modern, fast & scalable web applications using React ecosystem and smart
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_LINK)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](YOUR_LINK)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/chandon-kumar-4033072a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://chandon-kumar-portfolio.vercel.app)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/chandon_kumar24?public_mode=true)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:chandonkumar2023@gmail.com)
 
 ---
 
