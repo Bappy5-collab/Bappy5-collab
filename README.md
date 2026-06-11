@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandon Kumar Mundol</h1>
+<h1 align="center">Hi 👋, I'm Chandon Kumar Bappy</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN + Next.js) | AI SaaS Builder</h3>
 
 <p align="center">
