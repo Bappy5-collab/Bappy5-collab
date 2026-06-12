@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandon Kumar Bappy</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN + Next.js) | AI SaaS Builder</h3>
+<h3 align="center">🚀 Full Stack Engineer (MERN + Next.js) | AI SaaS Builder</h3>
 
 <p align="center">
 I build scalable full stack applications, AI-powered platforms, and modern user-focused web experiences.
