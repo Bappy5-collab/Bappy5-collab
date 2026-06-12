@@ -20,7 +20,7 @@ I build scalable full stack applications, AI-powered platforms, and modern user-
 
 ## 💼 Experience
 
-### 🏢 Frontend Developer — ZesXai (Jan 2025 – Present)
+### 🏢 Frontend Developer — ZesXai (December 2023 – Present)
 
 - 🔗 Built and integrated REST APIs for full stack applications  
 - ⚛️ Developed responsive UI using React & modern frontend tools  
