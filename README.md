@@ -13,7 +13,7 @@ I build production-ready web applications, AI-powered platforms, and modern user
 
 ## 👨‍💻 About Me
 
-- 💻 Front-End Developer (React.js | Next.js) with 2+ years of experience
+- 💻 Front-End Developer (React.js | Next.js) with 3+ years of experience
 - 🔭 Currently working at **ZesXai** as a Full Stack Engineer
 - 🤖 Building AI-powered SaaS, e-commerce & marketplace platforms
 - 🔗 Experienced in REST APIs, GraphQL & OpenAI API integration
